@@ -1,2 +1,2 @@
 # ReversiProj
-Reversi board game
+Reversi board game made using Java in BlueJ

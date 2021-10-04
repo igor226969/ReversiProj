@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=FileManager
+comment1.params=
+comment1.target=FileManager()
+comment2.params=squares\ white\ black
+comment2.target=java.lang.String[][]\ getBoard(javax.swing.JButton[][],\ javax.swing.ImageIcon,\ javax.swing.ImageIcon)
+comment3.params=board\ counter\ player1\ player2\ file
+comment3.target=void\ saveBoard(java.lang.String[][],\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getPlayer1Name()
+comment5.params=
+comment5.target=java.lang.String\ getPlayer2Name()
+comment6.params=
+comment6.target=int\ getCounter()
+comment7.params=board
+comment7.target=boolean\ validateBoard(java.lang.String[][])
+comment8.params=filename
+comment8.target=java.lang.String[][]\ readSession(java.lang.String)
+numComments=9
